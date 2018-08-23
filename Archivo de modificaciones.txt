@@ -1,2 +1,8 @@
 Este archivo sera utilizado para emular modificaciones en el proyecto colaborativo.
 Carlos Elias Nuño Tiscareño
+
+luis angel ruiz 
+
+el repositorio remoto actualizado se puede encontrar en la url´s
+https://github.com/luisangelrp97/Tarea_colaborativo
+https://github.com/CarlosNuno98/Tarea_colaborativo
